@@ -1,0 +1,8 @@
+.idea/
+__pycache__/
+tests
+README.md
+.env
+no_task.py
+requirements.txt
+task_3_selenium.py
